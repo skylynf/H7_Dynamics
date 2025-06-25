@@ -1,0 +1,481 @@
+Year,Semester,World region,Country,Administrative Division,Disease,Serotype/Subtype/Genotype,Animal Category,Species,Event_id,Outbreak_id,New outbreaks,Susceptible,Measuring units,Cases,Killed,Slaughtered,Deaths
+2005,Jan-Jun 2005,Asia,Korea (Dem People's Rep. of),P'Yongyang-Si,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,Birds,496,-,3,218788,Animal,20336,215552,0,3236
+2006,Jan-Jun 2006,Asia,T¨¹rkiye (Rep. of),Samsun,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2007,Jan-Jun 2007,Europe,Italy,Veneto,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,960,Animal,0,960,0,0
+2007,Jan-Jun 2007,Europe,United Kingdom,England,Low pathogenic avian influenza (poultry) (2006-2021),H7N2,Domestic,Birds,-,-,-,34,Animal,8,34,0,0
+2007,Jan-Jun 2007,Europe,United Kingdom,Wales,Low pathogenic avian influenza (poultry) (2006-2021),H7N2,Domestic,Birds,-,-,-,48,Animal,15,0,33,15
+2007,Jul-Dec 2007,Americas,Canada,Saskatchewan,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,49100,Animal,540,48560,0,540
+2007,Jul-Dec 2007,Americas,United States of America,Nebraska,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,144000,Animal,0,0,144000,0
+2007,Jul-Dec 2007,Asia,Korea (Rep. of),Gwangju Metropolitan City,Low pathogenic avian influenza (poultry) (2006-2021),H7N8,Domestic,Birds,-,-,-,10600,Animal,10,3800,0,10
+2007,Jul-Dec 2007,Europe,Italy,Basilicata,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,75,Animal,0,75,0,0
+2007,Jul-Dec 2007,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,17465,Animal,0,17465,0,0
+2007,Jul-Dec 2007,Europe,Italy,Lombardia,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,107220,Animal,31761,103444,0,3476
+2007,Jul-Dec 2007,Europe,Italy,Piemonte,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,2340,Animal,0,2340,0,0
+2007,Jul-Dec 2007,Europe,Italy,Veneto,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,2139,Animal,0,2114,0,0
+2007,Jul-Dec 2007,Europe,United Kingdom,England,Low pathogenic avian influenza (poultry) (2006-2021),H7N2,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2008,Jan-Jun 2008,Americas,Canada,Saskatchewan,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2008,Jan-Jun 2008,Americas,United States of America,Arkansas,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,16000,Animal,0,16000,0,0
+2008,Jan-Jun 2008,Europe,Denmark,South (2008-2009),Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,2750,Animal,0,2750,0,0
+2008,Jan-Jun 2008,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,5096,Animal,0,5096,0,0
+2008,Jan-Jun 2008,Europe,United Kingdom,England,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,Birds,-,-,-,25000,Animal,15000,15000,0,10000
+2008,Jul-Dec 2008,Americas,United States of America,Arkansas,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2008,Jul-Dec 2008,Europe,Italy,Calabria,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,11100,Animal,7,11100,0,0
+2008,Jul-Dec 2008,Europe,United Kingdom,England,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2009,Jan-Jun 2009,Americas,United States of America,Kentucky,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,20000,Animal,0,20000,0,0
+2009,Jan-Jun 2009,Asia,Japan,Aichi,Low pathogenic avian influenza (poultry) (2006-2021),H7N6,Domestic,Birds,-,-,-,1595577,Animal,10,1595577,0,0
+2009,Jan-Jun 2009,Europe,Czech Republic,Jihomoravsky,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,679,Animal,679,679,0,0
+2009,Jan-Jun 2009,Europe,Germany,Nordrhein-Westfalen,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,16700,Animal,454,16246,0,454
+2009,Jan-Jun 2009,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7N3;not typed,Domestic,Birds,-,-,-,11606,Animal,21,11606,0,0
+2009,Jan-Jun 2009,Europe,Italy,Piemonte,Low pathogenic avian influenza (poultry) (2006-2021),H7N3;not typed,Domestic,Birds,-,-,-,25471,Animal,105,25471,0,0
+2009,Jan-Jun 2009,Europe,Italy,Umbria,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,19328,Animal,0,0,0,0
+2009,Jul-Dec 2009,Americas,United States of America,Kentucky,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2009,Jul-Dec 2009,Americas,United States of America,Minnesota,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,160000,Animal,0,0,160000,0
+2009,Jul-Dec 2009,Europe,Italy,Basilicata,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,40,Animal,2,40,0,0
+2009,Jul-Dec 2009,Europe,Italy,Campania,Low pathogenic avian influenza (poultry) (2006-2021),H7N1;not typed,Domestic,Birds,-,-,-,336,Animal,24,336,0,3
+2009,Jul-Dec 2009,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,7900,Animal,10,7900,0,0
+2009,Jul-Dec 2009,Europe,Italy,Lazio,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,879,Animal,8,879,0,0
+2009,Jul-Dec 2009,Europe,Italy,Marche,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,1280,Animal,2,1280,0,0
+2009,Jul-Dec 2009,Europe,Italy,Piemonte,Low pathogenic avian influenza (poultry) (2006-2021),H5N1;H7N1,Wild,American Mink,-,-,-,5569,Animal,46,4230,0,0
+2009,Jul-Dec 2009,Europe,Italy,Toscana,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,42,Animal,1,18,0,0
+2009,Jul-Dec 2009,Europe,Italy,Veneto,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Wild,American Mink,-,-,-,1000,Animal,4,1000,0,0
+2009,Jul-Dec 2009,Europe,Spain,Castilla-La Mancha,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,Birds,-,-,-,308640,Animal,30000,278640,0,30000
+2010,Jan-Jun 2010,Asia,Korea (Rep. of),Jeollabuk-Do,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,23700,Animal,950,0,0,70
+2010,Jan-Jun 2010,Asia,Korea (Rep. of),Jeollanam-Do,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,177541,Animal,15,84630,0,0
+2010,Jan-Jun 2010,Europe,Denmark,East,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,3959,Animal,0,3959,0,0
+2010,Jan-Jun 2010,Europe,Italy,Lombardia,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,6196,Animal,10,6196,0,0
+2010,Jan-Jun 2010,Europe,Netherlands,Noord-Brabant,Low pathogenic avian influenza (poultry) (2006-2021),H7N4,Domestic,Birds,-,-,-,28000,Animal,0,28000,0,0
+2010,Jan-Jun 2010,Europe,Spain,Castilla-La Mancha,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2010,Jul-Dec 2010,Asia,Korea (Rep. of),Chungcheongnam-Do (2005-2013),Low pathogenic avian influenza (poultry) (2006-2021),H7N2,Domestic,Birds,-,-,-,110,Animal,1,110,0,0
+2010,Jul-Dec 2010,Asia,Korea (Rep. of),Chungcheongnam-Do (2005-2013),Low pathogenic avian influenza (poultry) (2006-2021),H7N7;other,Domestic,Birds,-,-,-,17000,Animal,160,0,0,0
+2010,Jul-Dec 2010,Asia,Korea (Rep. of),Jeollabuk-Do,Low pathogenic avian influenza (poultry) (2006-2021),H7N2,Domestic,Birds,-,-,-,50000,Animal,6,50000,0,0
+2010,Jul-Dec 2010,Asia,Korea (Rep. of),Jeollanam-Do,Low pathogenic avian influenza (poultry) (2006-2021),H7N6;other,Domestic,Birds,-,-,-,30000,Animal,2,0,0,0
+2010,Jul-Dec 2010,Europe,Italy,Lombardia,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,1345,Animal,1345,1345,0,0
+2011,Jan-Jun 2011,Americas,United States of America,Minnesota,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,5500,Animal,0,0,3000,0
+2011,Jan-Jun 2011,Americas,United States of America,Missouri,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,29000,Animal,0,15000,14000,0
+2011,Jan-Jun 2011,Asia,Chinese Taipei,Chia-I (2005-2012),Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N3,Domestic,Birds,-,-,-,2820,Animal,41,0,0,0
+2011,Jan-Jun 2011,Europe,Germany,Baden-Wurttemberg,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,2182,Animal,249,2182,0,0
+2011,Jan-Jun 2011,Europe,Germany,Bayern,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,468,Animal,4,468,0,0
+2011,Jan-Jun 2011,Europe,Germany,Nordrhein-Westfalen,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,105301,Animal,4057,105301,0,0
+2011,Jan-Jun 2011,Europe,Germany,Sachsen,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,2176,Animal,26,2152,0,7
+2011,Jan-Jun 2011,Europe,Italy,Basilicata,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,235,Animal,7,235,0,0
+2011,Jan-Jun 2011,Europe,Italy,Campania,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,5000,Animal,2,4998,0,2
+2011,Jan-Jun 2011,Europe,Italy,Lombardia,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,742,Animal,1,742,0,0
+2011,Jan-Jun 2011,Europe,Italy,Piemonte,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,1250,Animal,5,1250,0,0
+2011,Jan-Jun 2011,Europe,Italy,Umbria,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,19200,Animal,35,19200,0,33
+2011,Jan-Jun 2011,Europe,Netherlands,Flevoland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,54000,Animal,0,54000,0,0
+2011,Jan-Jun 2011,Europe,Netherlands,Gelderland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,8800,Animal,12,8788,0,1
+2011,Jan-Jun 2011,Europe,Netherlands,Zeeland,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,127500,Animal,10,127490,0,0
+2011,Jul-Dec 2011,Africa,South Africa,Western Cape Province,High pathogenicity avian influenza viruses (poultry) (Inf. with),H5N2;H7N1,Domestic,Birds,-,-,-,12278,Animal,1028,0,0,0
+2011,Jul-Dec 2011,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,1181,17645,1,12278,Animal,1028,0,0,0
+2011,Jul-Dec 2011,Americas,United States of America,Minnesota,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2011,Jul-Dec 2011,Europe,Germany,Baden-Wurttemberg,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2011,Jul-Dec 2011,Europe,Germany,Bayern,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2011,Jul-Dec 2011,Europe,Germany,Niedersachsen,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,190,Animal,1,190,0,0
+2011,Jul-Dec 2011,Europe,Germany,Nordrhein-Westfalen,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2011,Jul-Dec 2011,Europe,Germany,Sachsen,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,40,Animal,5,0,0,0
+2011,Jul-Dec 2011,Europe,Italy,Basilicata,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,438,Animal,27,438,0,0
+2011,Jul-Dec 2011,Europe,Italy,Calabria,Low pathogenic avian influenza (poultry) (2006-2021),H5;H7,Domestic,Birds,-,-,-,330,Animal,7,180,0,0
+2011,Jul-Dec 2011,Europe,Italy,Campania,Low pathogenic avian influenza (poultry) (2006-2021),H5;H5N2;H7,Domestic,Birds,-,-,-,5397,Animal,18,5397,0,2
+2011,Jul-Dec 2011,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H5;H7,Domestic,Birds,-,-,-,1808,Animal,13,1808,0,0
+2011,Jul-Dec 2011,Europe,Italy,Umbria,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,19200,Animal,35,19200,0,33
+2011,Jul-Dec 2011,Europe,Italy,Veneto,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,1117,Animal,13,1117,0,0
+2011,Jul-Dec 2011,Europe,Netherlands,Flevoland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2011,Jul-Dec 2011,Europe,Netherlands,Gelderland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2012,Jan-Jun 2012,Africa,South Africa,Eastern Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,2643,Animal,98,0,2633,10
+2012,Jan-Jun 2012,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N1,Domestic,Birds,-,-,-,2989,Animal,728,0,2747,1
+2012,Jan-Jun 2012,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,6121606,Animal,2264068,5209064,0,912542
+2012,Jan-Jun 2012,Europe,Italy,Basilicata,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,72,Animal,3,72,0,0
+2012,Jan-Jun 2012,Europe,Italy,Calabria,Low pathogenic avian influenza (poultry) (2006-2021),H5;H5N2;H7N2,Domestic,Birds,-,-,-,1630,Animal,9,1480,0,0
+2012,Jan-Jun 2012,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H5;H7,Domestic,Birds,-,-,-,1753,Animal,14,1753,0,0
+2012,Jul-Dec 2012,Africa,South Africa,Eastern Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,,-,-,1,-,-,0,0,0,0
+2012,Jul-Dec 2012,Africa,South Africa,Eastern Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,1404,Animal,133,0,1120,0
+2012,Jul-Dec 2012,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N1,Domestic,Birds,-,-,-,8573,Animal,2665,0,2915,0
+2012,Jul-Dec 2012,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,,-,-,4,-,-,0,0,0,0
+2012,Jul-Dec 2012,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,3040,Animal,1719,0,2750,0
+2012,Jul-Dec 2012,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,5279193,Animal,608805,5014566,0,264627
+2012,Jul-Dec 2012,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Wild,Barn Swallow,-,-,-,2,Animal,1,1,0,1
+2012,Jul-Dec 2012,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Wild,Common Grackle,-,-,-,-,Animal,10,2,0,8
+2012,Jul-Dec 2012,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,83,Animal,9,83,0,0
+2012,Jul-Dec 2012,Europe,Netherlands,Utrecht,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,31870,Animal,0,31870,0,0
+2012,Jul-Dec 2012,Oceania,Australia,New South Wales,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7 (N untyped),Domestic,Birds,-,-,-,50000,Animal,5000,45000,0,5000
+2013,Jan-Jun 2013,Africa,South Africa,Eastern Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jan-Jun 2013,Africa,South Africa,Free State,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,410,Animal,2,0,0,0
+2013,Jan-Jun 2013,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N1;H7N7,Domestic,Birds,-,-,-,18611,Animal,6410,0,0,0
+2013,Jan-Jun 2013,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N1,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jan-Jun 2013,Americas,Mexico,Aguascalientes,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,758785,Animal,2990,474030,284015,740
+2013,Jan-Jun 2013,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,2745270,Animal,150064,2558713,0,92362
+2013,Jan-Jun 2013,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,3545751,Animal,467532,3087231,0,417220
+2013,Jan-Jun 2013,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,446097,Animal,75003,406094,0,40000
+2013,Jan-Jun 2013,Americas,Mexico,Tlaxcala,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,34,Animal,5,32,0,2
+2013,Jan-Jun 2013,Americas,United States of America,Arkansas,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,9800,Animal,0,9800,0,0
+2013,Jan-Jun 2013,Asia,China (People's Rep. of),Anhui,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,1,0,0,0
+2013,Jan-Jun 2013,Asia,China (People's Rep. of),Fujian,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,1,0,0,0
+2013,Jan-Jun 2013,Asia,China (People's Rep. of),Guangdong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,2,89864,0,0
+2013,Jan-Jun 2013,Asia,China (People's Rep. of),Henan,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,2,0,0,0
+2013,Jan-Jun 2013,Asia,China (People's Rep. of),Jiangsu,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,341,Animal,13,340,0,1
+2013,Jan-Jun 2013,Asia,China (People's Rep. of),Jiangxi,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,1,0,0,0
+2013,Jan-Jun 2013,Asia,China (People's Rep. of),Shandong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,3,0,0,0
+2013,Jan-Jun 2013,Asia,China (People's Rep. of),Shanghai,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,20536,Animal,20,20536,0,0
+2013,Jan-Jun 2013,Asia,China (People's Rep. of),Zhejiang,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,10,2,0,0
+2013,Jan-Jun 2013,Asia,Vietnam,Can Tho,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,-,Animal,2,0,0,0
+2013,Jan-Jun 2013,Europe,Denmark,West,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,22215,Animal,0,5118,0,0
+2013,Jan-Jun 2013,Europe,Germany,Niedersachsen,Low pathogenic avian influenza (poultry) (2006-2021),H5N1;H7N7,Domestic,Birds,-,-,-,26406,Animal,410,26406,0,0
+2013,Jan-Jun 2013,Europe,Netherlands,Flevoland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,23500,Animal,60,23440,0,0
+2013,Jan-Jun 2013,Europe,Netherlands,Gelderland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,80152,Animal,200,80152,0,0
+2013,Jan-Jun 2013,Europe,Netherlands,Utrecht,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,10750,Animal,5000,10750,0,0
+2013,Jan-Jun 2013,Europe,Spain,Cataluna,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,13000,Animal,260,12740,0,260
+2013,Jan-Jun 2013,Oceania,Australia,New South Wales,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7 (N untyped),Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Africa,South Africa,Eastern Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,2906,Animal,64,0,0,0
+2013,Jul-Dec 2013,Africa,South Africa,Free State,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Africa,South Africa,Gauteng,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,2000,Animal,4,0,0,0
+2013,Jul-Dec 2013,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N7,Domestic,Birds,-,-,-,17679,Animal,4219,0,0,0
+2013,Jul-Dec 2013,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,5,Animal,0,5,0,0
+2013,Jul-Dec 2013,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,369343,Animal,0,369343,0,0
+2013,Jul-Dec 2013,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Americas,United States of America,Arkansas,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Asia,China (People's Rep. of),Anhui,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Asia,China (People's Rep. of),Fujian,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Asia,China (People's Rep. of),Guangdong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,4,1200,0,0
+2013,Jul-Dec 2013,Asia,China (People's Rep. of),Henan,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Asia,China (People's Rep. of),Jiangsu,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Asia,China (People's Rep. of),Jiangxi,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Asia,China (People's Rep. of),Shandong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Asia,China (People's Rep. of),Shanghai,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Asia,China (People's Rep. of),Zhejiang,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,4620,Animal,36,4620,0,0
+2013,Jul-Dec 2013,Europe,Italy,Emilia-Romagna,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7 (N untyped);H7N7,Domestic,Birds,-,-,-,982455,Animal,256851,972791,0,9664
+2013,Jul-Dec 2013,Europe,Italy,Emilia-Romagna,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,Birds,-,-,-,196406,Animal,24,196382,0,24
+2013,Jul-Dec 2013,Europe,Netherlands,Flevoland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Europe,Netherlands,Friesland,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,9043,Animal,1,9043,0,0
+2013,Jul-Dec 2013,Europe,Netherlands,Utrecht,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2013,Jul-Dec 2013,Europe,Portugal,Dsvr Do Alentejo,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,63,Animal,3,63,0,0
+2013,Jul-Dec 2013,Oceania,Australia,New South Wales,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N2,Domestic,Birds,-,-,-,490000,Animal,18620,471380,0,18620
+2014,Jan-Jun 2014,Africa,South Africa,Eastern Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jan-Jun 2014,Africa,South Africa,Free State,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jan-Jun 2014,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N7,Domestic,Birds,-,-,-,8625,Animal,4154,0,0,215
+2014,Jan-Jun 2014,Americas,Mexico,Nuevo Leon,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,1987,Animal,0,1987,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Anhui,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Fujian,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,16,0,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Guangdong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,332932,Animal,60,332932,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Guangxi,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,428745,Animal,12,428745,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Henan,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,8,120,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Hunan,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,45258,Animal,24,45258,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Jiangsu,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Jiangxi,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Ningxia,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,3,0,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Shandong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Shanghai,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jan-Jun 2014,Asia,China (People's Rep. of),Zhejiang,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,240,Animal,4,240,0,0
+2014,Jan-Jun 2014,Asia,Hong Kong,Hong Kong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,22604,Animal,2600,22604,0,0
+2014,Jan-Jun 2014,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,3508,Animal,1,3491,0,0
+2014,Jan-Jun 2014,Europe,Italy,Lombardia,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,131,Animal,131,131,0,0
+2014,Jan-Jun 2014,Oceania,Australia,New South Wales,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N2,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Africa,South Africa,Eastern Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N1;H7N7,Domestic,Birds,-,-,-,3774,Animal,1176,0,0,0
+2014,Jul-Dec 2014,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N1,Domestic,Birds,-,-,-,12546,Animal,2583,0,0,0
+2014,Jul-Dec 2014,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N7,Domestic,Birds,-,-,-,1776,Animal,874,0,0,0
+2014,Jul-Dec 2014,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,424443,Animal,3635,421847,0,2596
+2014,Jul-Dec 2014,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,2905500,Animal,11502,2896245,0,9255
+2014,Jul-Dec 2014,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,24014,Animal,0,24014,0,0
+2014,Jul-Dec 2014,Americas,United States of America,New Jersey,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,51200,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Anhui,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Fujian,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Guangdong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Guangxi,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Henan,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Hunan,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Jiangsu,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Jiangxi,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Ningxia,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Shandong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Shanghai,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,China (People's Rep. of),Zhejiang,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2014,Jul-Dec 2014,Asia,Hong Kong,Hong Kong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,18962,Animal,1,18962,0,0
+2014,Jul-Dec 2014,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,2399,Animal,32,2399,0,0
+2015,Jan-Jun 2015,Americas,Mexico,Chiapas,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Wild,Clay-colored thrush,-,-,-,-,Animal,2,0,0,2
+2015,Jan-Jun 2015,Americas,Mexico,Chiapas,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Wild,Plain chachalaca,-,-,-,-,Animal,6,0,0,6
+2015,Jan-Jun 2015,Americas,Mexico,Oaxaca,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,200,Animal,90,110,0,90
+2015,Jan-Jun 2015,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,324,Animal,49,320,0,4
+2015,Jan-Jun 2015,Americas,United States of America,California,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,61000,Animal,0,61000,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Anhui,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Fujian,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Guangdong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Guangxi,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Henan,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Hunan,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Jiangsu,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Jiangxi,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Ningxia,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Shandong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Shanghai,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Asia,China (People's Rep. of),Zhejiang,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jan-Jun 2015,Europe,Germany,Niedersachsen,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,59600,Animal,2322,59500,0,100
+2015,Jan-Jun 2015,Europe,Italy,Veneto,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N2,Domestic,Birds,-,-,-,244,Animal,5,0,0,0
+2015,Jan-Jun 2015,Europe,Netherlands,Friesland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,22273,Animal,0,22273,0,0
+2015,Jan-Jun 2015,Europe,Netherlands,Gelderland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,26573,Animal,0,26573,0,0
+2015,Jan-Jun 2015,Europe,United Kingdom,England,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,10572,Animal,52,10520,0,52
+2015,Jul-Dec 2015,Africa,South Africa,Eastern Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N3,Domestic,Birds,-,-,-,2200,Animal,15,0,0,0
+2015,Jul-Dec 2015,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N3,Domestic,Birds,-,-,-,10372,Animal,3789,0,0,175
+2015,Jul-Dec 2015,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,3100,Animal,3095,5,0,3095
+2015,Jul-Dec 2015,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,145,Animal,20,130,0,15
+2015,Jul-Dec 2015,Americas,United States of America,California,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jul-Dec 2015,Europe,Germany,Niedersachsen,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,Birds,-,-,-,10104,Animal,50,10054,0,50
+2015,Jul-Dec 2015,Europe,Germany,Niedersachsen,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jul-Dec 2015,Europe,Netherlands,Friesland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jul-Dec 2015,Europe,Netherlands,Gelderland,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2015,Jul-Dec 2015,Europe,United Kingdom,England,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,Birds,-,-,-,179865,Animal,34604,145261,0,34604
+2016,Jan-Jun 2016,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N3,Domestic,Birds,-,-,-,3228,Animal,1326,0,0,0
+2016,Jan-Jun 2016,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,3868989,Animal,54955,3824150,0,44839
+2016,Jan-Jun 2016,Americas,Mexico,Oaxaca,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,1300,Animal,1203,97,0,1203
+2016,Jan-Jun 2016,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,491918,Animal,2906,279447,0,2571
+2016,Jan-Jun 2016,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Wild,Indian Peafowl,-,-,-,25,Animal,25,0,0,25
+2016,Jan-Jun 2016,Americas,Mexico,Veracruz,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,72108,Animal,21507,64901,0,7207
+2016,Jan-Jun 2016,Americas,United States of America,Indiana,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N8,Domestic,Birds,-,-,-,43500,Animal,0,42600,0,900
+2016,Jan-Jun 2016,Americas,United States of America,Indiana,Low pathogenic avian influenza (poultry) (2006-2021),H7N8,Domestic,Birds,-,-,-,155405,Animal,0,155045,0,0
+2016,Jan-Jun 2016,Asia,Hong Kong,Hong Kong,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,1,0,0,0
+2016,Jan-Jun 2016,Europe,Italy,Emilia-Romagna,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,Birds,-,-,-,66972,Animal,2870,66302,0,670
+2016,Jan-Jun 2016,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,724,Animal,13,723,0,1
+2016,Jan-Jun 2016,Europe,Netherlands,Friesland,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,44630,Animal,0,44630,0,0
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Black-winged Stilt,-,-,-,-,Animal,17,0,0,17
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Common Coot,-,-,-,-,Animal,70,0,0,70
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Common Moorhen,-,-,-,-,Animal,25,0,0,25
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Common ringed plover,-,-,-,-,Animal,4,0,0,4
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Common Teal,-,-,-,-,Animal,55,0,0,55
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Eurasian Spoonbill,-,-,-,-,Animal,1,0,0,1
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Ferruginous Pochard,-,-,-,-,Animal,11,0,0,11
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Gadwall,-,-,-,-,Animal,9,0,0,9
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Glossy Ibis,-,-,-,-,Animal,4,0,0,4
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Green Sandpiper,-,-,-,-,Animal,1,0,0,1
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Grey Heron,-,-,-,-,Animal,1,0,0,1
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Kentish plover,-,-,-,-,Animal,3,0,0,3
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Laridae (unidentified),-,-,-,-,Animal,1,0,0,1
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Little Egret,-,-,-,-,Animal,45,0,0,45
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Little ringed plover,-,-,-,-,Animal,2,0,0,2
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Little stint,-,-,-,-,Animal,5,0,0,5
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Mallard,-,-,-,-,Animal,4,0,0,4
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Marbled teal,-,-,-,-,Animal,220,0,0,220
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Northern Shoveler,-,-,-,-,Animal,150,0,0,150
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Pied avocet,-,-,-,-,Animal,9,0,0,9
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Ruddy Shelduck,-,-,-,-,Animal,658,0,0,658
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Ruff,-,-,-,-,Animal,1,0,0,1
+2016,Jul-Dec 2016,Africa,Algeria,Ghardaia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N1,Wild,Wood Sandpiper,-,-,-,-,Animal,4,0,0,4
+2016,Jul-Dec 2016,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N2,Domestic,Birds,-,-,-,9906,Animal,5254,0,0,0
+2016,Jul-Dec 2016,Americas,Chile,Valparaiso,Low pathogenic avian influenza (poultry) (2006-2021),H7N6,Domestic,Birds,-,-,-,344540,Animal,5534,339006,0,5534
+2016,Jul-Dec 2016,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2016,Jul-Dec 2016,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2016,Jul-Dec 2016,Europe,Denmark,East,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,2968,Animal,0,2968,0,0
+2016,Jul-Dec 2016,Europe,Netherlands,Friesland,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Black-winged Stilt,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Common Coot,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Common Moorhen,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Common ringed plover,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Common Teal,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Eurasian Spoonbill,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Ferruginous Pochard,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Gadwall,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Glossy Ibis,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Green Sandpiper,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Grey Heron,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Kentish plover,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Laridae (unidentified),-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Little Egret,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Little ringed plover,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Little stint,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Mallard,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Marbled teal,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Northern Shoveler,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Pied avocet,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Ruddy Shelduck,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Ruff,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Algeria,Ghardaia,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N1,Wild,Wood Sandpiper,-,-,-,-,Animal,0,0,0,0
+2017,Jan-Jun 2017,Africa,Libya,Al Fatih,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,220,Animal,1,220,0,0
+2017,Jan-Jun 2017,Africa,Libya,Gharyan,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,20,Animal,0,19,0,1
+2017,Jan-Jun 2017,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N2,Domestic,Birds,-,-,-,906,Animal,79,0,0,0
+2017,Jan-Jun 2017,Americas,Chile,Valparaiso,Low pathogenic avian influenza (poultry) (2006-2021),H7N6,Domestic,Birds,-,-,-,35897,Animal,108,35794,0,103
+2017,Jan-Jun 2017,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,151132,Animal,10,0,151132,0
+2017,Jan-Jun 2017,Americas,United States of America,Alabama,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,65931,Animal,0,65931,0,0
+2017,Jan-Jun 2017,Americas,United States of America,Georgia,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,18000,Animal,0,18000,0,0
+2017,Jan-Jun 2017,Americas,United States of America,Kentucky,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,22000,Animal,0,22000,0,0
+2017,Jan-Jun 2017,Americas,United States of America,Tennessee,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7 (N untyped);H7N9,Domestic,Birds,-,-,-,74000,Animal,0,73300,0,700
+2017,Jan-Jun 2017,Americas,United States of America,Tennessee,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,16500,Animal,0,16500,0,0
+2017,Jan-Jun 2017,Asia,Cambodia,Kg. Thom,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,4000,Animal,3700,0,300,3700
+2017,Jan-Jun 2017,Asia,China (People's Rep. of),Hebei,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,20317,Animal,8500,15317,0,5000
+2017,Jan-Jun 2017,Asia,China (People's Rep. of),Heilongjiang,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,57751,Animal,20150,38251,0,19500
+2017,Jan-Jun 2017,Asia,China (People's Rep. of),Henan,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,77040,Animal,7500,71270,0,5770
+2017,Jan-Jun 2017,Asia,China (People's Rep. of),Hunan,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,189676,Animal,29760,171179,0,18497
+2017,Jan-Jun 2017,Asia,China (People's Rep. of),Inner Mongolia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,63406,Animal,63406,25824,0,37582
+2017,Jan-Jun 2017,Asia,China (People's Rep. of),Shaanxi,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,1085661,Animal,31700,23000,0,22000
+2017,Jan-Jun 2017,Asia,China (People's Rep. of),Tianjin,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,93150,Animal,10000,87150,0,6000
+2017,Jan-Jun 2017,Europe,France,Indre,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,4980,Animal,0,4980,0,0
+2017,Jan-Jun 2017,Europe,Netherlands,Friesland,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Africa,Libya,Al Fatih,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Africa,Libya,Gharyan,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N2,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Americas,United States of America,Tennessee,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Asia,China (People's Rep. of),Anhui,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,75373,Animal,1368,74463,0,910
+2017,Jul-Dec 2017,Asia,China (People's Rep. of),Hebei,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Asia,China (People's Rep. of),Heilongjiang,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Asia,China (People's Rep. of),Henan,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Asia,China (People's Rep. of),Hunan,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Asia,China (People's Rep. of),Inner Mongolia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H5N1;H7N9,Domestic,Birds,-,-,-,81500,Animal,35000,66500,0,15000
+2017,Jul-Dec 2017,Asia,China (People's Rep. of),Inner Mongolia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Asia,China (People's Rep. of),Shanxi,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Asia,China (People's Rep. of),Tianjin,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2017,Jul-Dec 2017,Asia,Chinese Taipei,Yunlin County,High pathogenicity avian influenza viruses (poultry) (Inf. with),H5N2;H7N3,Domestic,Birds,-,-,-,43990,Animal,6045,37945,0,6045
+2018,Jan-Jun 2018,Africa,South Africa,Western Cape Province,Low pathogenic avian influenza (poultry) (2006-2021),H5N2;H7N2,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2018,Jan-Jun 2018,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,2020,Animal,1450,570,0,1450
+2018,Jan-Jun 2018,Americas,Mexico,Queretaro,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,5234,Animal,3133,2101,0,3133
+2018,Jan-Jun 2018,Americas,United States of America,Missouri,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,20000,Animal,0,0,20000,0
+2018,Jan-Jun 2018,Americas,United States of America,Texas,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,24091,Animal,0,24091,0,0
+2018,Jan-Jun 2018,Asia,Cambodia,Phnom Penh,Low pathogenic avian influenza (poultry) (2006-2021),H7N4,Domestic,Birds,2843,62362,1,100,Animal,10,10,90,0
+2018,Jan-Jun 2018,Asia,Cambodia,Prey Veng,Low pathogenic avian influenza (poultry) (2006-2021),H7N4,Domestic,Birds,2843,62363,1,100,Animal,10,10,90,0
+2018,Jan-Jun 2018,Asia,Cambodia,Takeo,Low pathogenic avian influenza (poultry) (2006-2021),H7N4,Domestic,Birds,2843,62351,1,100,Animal,10,10,90,0
+2018,Jan-Jun 2018,Asia,China (People's Rep. of),Liaoning,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,17000,Animal,11000,8000,0,9000
+2018,Jan-Jun 2018,Asia,China (People's Rep. of),Ningxia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,99578,Animal,4200,96783,0,2795
+2018,Jan-Jun 2018,Asia,China (People's Rep. of),Shaanxi,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,1000,Animal,1000,190,0,810
+2018,Jan-Jun 2018,Asia,China (People's Rep. of),Shanxi,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,6374,Animal,812,5675,0,699
+2018,Jan-Jun 2018,Europe,France,Val-D'Oise,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,10500,Animal,0,0,0,0
+2018,Jul-Dec 2018,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,60,Animal,35,25,0,35
+2018,Jul-Dec 2018,Americas,Mexico,Queretaro,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,2604,Animal,1563,1041,0,1563
+2018,Jul-Dec 2018,Americas,United States of America,California,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,208820,Animal,0,61420,116000,0
+2018,Jul-Dec 2018,Asia,China (People's Rep. of),Ningxia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2018,Jul-Dec 2018,Asia,China (People's Rep. of),Shaanxi,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2018,Jul-Dec 2018,Asia,China (People's Rep. of),Shanxi,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2018,Jul-Dec 2018,Europe,France,Val-D'Oise,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2019,Jan-Jun 2019,Africa,South Africa,Free State,Low pathogenic avian influenza (poultry) (2006-2021),H7N2,Domestic,Birds,-,-,-,4372,Animal,75,1,0,0
+2019,Jan-Jun 2019,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,50,Animal,30,25,0,25
+2019,Jan-Jun 2019,Americas,Mexico,Guerrero,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,88,Animal,38,59,0,29
+2019,Jan-Jun 2019,Americas,Mexico,Hidalgo,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,2919,Animal,2378,597,0,2322
+2019,Jan-Jun 2019,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,2447,Animal,2247,1917,0,530
+2019,Jan-Jun 2019,Americas,Mexico,Mexico,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,440,Animal,440,60,0,380
+2019,Jan-Jun 2019,Americas,Mexico,Queretaro,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,414918,Animal,2871,135212,277264,2442
+2019,Jan-Jun 2019,Americas,Mexico,Tlaxcala,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,10,Animal,5,5,0,5
+2019,Jan-Jun 2019,Americas,Mexico,Veracruz,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,25,Animal,13,22,0,3
+2019,Jan-Jun 2019,Americas,United States of America,California,Low pathogenic avian influenza (poultry) (2006-2021),H5;H7N3,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2019,Jan-Jun 2019,Americas,United States of America,California,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2019,Jan-Jun 2019,Asia,Cambodia,Phnom Penh,Low pathogenic avian influenza (poultry) (2006-2021),H7N4,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2019,Jan-Jun 2019,Asia,Cambodia,Prey Veng,Low pathogenic avian influenza (poultry) (2006-2021),H7N4,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2019,Jan-Jun 2019,Asia,Cambodia,Takeo,Low pathogenic avian influenza (poultry) (2006-2021),H7N4,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2019,Jan-Jun 2019,Asia,China (People's Rep. of),Liaoning,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N9,Domestic,,-,-,1,-,-,0,0,0,0
+2019,Jan-Jun 2019,Asia,China (People's Rep. of),Liaoning,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N9,Wild,Indian Peafowl,-,-,-,394,Animal,9,191,0,9
+2019,Jan-Jun 2019,Asia,Chinese Taipei,Yilan County,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,1300,Animal,0,0,0,0
+2019,Jan-Jun 2019,Europe,Denmark,East,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,2828,Animal,0,2828,0,0
+2019,Jul-Dec 2019,Americas,Chile,Valparaiso,Low pathogenic avian influenza (poultry) (2006-2021),H7N6,Domestic,,-,-,4,-,-,0,0,0,0
+2019,Jul-Dec 2019,Americas,Chile,Valparaiso,Low pathogenic avian influenza (poultry) (2006-2021),H7N6,Domestic,Birds,-,-,-,186038,Animal,95649,67500,118538,0
+2019,Jul-Dec 2019,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,20,Animal,5,16,0,4
+2019,Jul-Dec 2019,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,159513,Animal,1045,5216,0,992
+2019,Jul-Dec 2019,Americas,Mexico,Queretaro,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,594119,Animal,10015,415681,174163,4275
+2019,Jul-Dec 2019,Americas,United States of America,California,Low pathogenic avian influenza (poultry) (2006-2021),H5;H7N3,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2019,Jul-Dec 2019,Asia,China (People's Rep. of),Liaoning,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N9,Wild,Indian Peafowl,-,-,-,-,Animal,0,0,0,0
+2019,Jul-Dec 2019,Asia,China (People's Rep. of),Ningxia,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2019,Jul-Dec 2019,Asia,China (People's Rep. of),Shaanxi,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2019,Jul-Dec 2019,Asia,China (People's Rep. of),Shanxi,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,-,-,-,-,Animal,0,0,0,0
+2019,Jul-Dec 2019,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,1455,Animal,1354,1441,0,14
+2020,Jan-Jun 2020,Africa,Ghana,Ghana,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,,-,-,5,-,-,0,0,0,0
+2020,Jan-Jun 2020,Africa,Ghana,Ghana,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,2573,Animal,2573,0,0,1462
+2020,Jan-Jun 2020,Americas,Mexico,Jalisco,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2020,Jan-Jun 2020,Americas,Mexico,Jalisco,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,-,Animal,1,0,0,0
+2020,Jan-Jun 2020,Americas,Mexico,Oaxaca,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2020,Jan-Jun 2020,Americas,Mexico,Oaxaca,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,126400,Animal,236,0,126164,0
+2020,Jan-Jun 2020,Americas,United States of America,North Carolina,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,,-,-,12,-,-,0,0,0,0
+2020,Jan-Jun 2020,Americas,United States of America,North Carolina,Low pathogenic avian influenza (poultry) (2006-2021),H7N3,Domestic,Birds,-,-,-,305250,Animal,0,305250,0,0
+2020,Jan-Jun 2020,Americas,United States of America,South Carolina,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2020,Jan-Jun 2020,Americas,United States of America,South Carolina,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,34160,Animal,0,32577,0,1583
+2020,Jan-Jun 2020,Europe,Italy,Veneto,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,,-,-,2,-,-,0,0,0,0
+2020,Jan-Jun 2020,Europe,Italy,Veneto,Low pathogenic avian influenza (poultry) (2006-2021),H7N1,Domestic,Birds,-,-,-,14300,Animal,14300,14300,0,0
+2020,Jul-Dec 2020,Africa,Ghana,Ghana,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,,-,-,5,-,-,0,0,0,0
+2020,Jul-Dec 2020,Africa,Ghana,Ghana,Low pathogenic avian influenza (poultry) (2006-2021),H7N9,Domestic,Birds,-,-,-,2573,Animal,2573,0,0,146
+2020,Jul-Dec 2020,Africa,South Africa,Western Cape,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,,-,-,29,-,-,0,0,0,0
+2020,Jul-Dec 2020,Africa,South Africa,Western Cape,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,26801,Animal,502,0,0,0
+2020,Jul-Dec 2020,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2020,Jul-Dec 2020,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,30,Animal,25,12,0,18
+2020,Jul-Dec 2020,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2020,Jul-Dec 2020,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,-,Animal,1,0,0,0
+2020,Jul-Dec 2020,Oceania,Australia,Victoria,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,,-,-,3,-,-,0,0,0,0
+2020,Jul-Dec 2020,Oceania,Australia,Victoria,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N7,Domestic,Birds,-,-,-,435378,Animal,255012,433504,0,1874
+2020,Jul-Dec 2020,Oceania,Australia,Victoria,Low pathogenic avian influenza (poultry) (2006-2021),H7N6,Domestic,,-,-,3,-,-,0,0,0,0
+2020,Jul-Dec 2020,Oceania,Australia,Victoria,Low pathogenic avian influenza (poultry) (2006-2021),H7N6,Domestic,Birds,-,-,-,5099,Animal,2000,4999,0,100
+2021,Jan-Jun 2021,Africa,South Africa,Western Cape,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,,-,-,1,-,-,0,0,0,0
+2021,Jan-Jun 2021,Africa,South Africa,Western Cape,Low pathogenic avian influenza (poultry) (2006-2021),H7,Domestic,Birds,-,-,-,609,Animal,2,0,0,2
+2021,Jan-Jun 2021,Americas,Mexico,Aguascalientes,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2021,Jan-Jun 2021,Americas,Mexico,Aguascalientes,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,230,Animal,151,0,79,151
+2021,Jan-Jun 2021,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2021,Jan-Jun 2021,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,350,Animal,8,0,342,8
+2021,Jan-Jun 2021,Americas,Mexico,Hidalgo,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2021,Jan-Jun 2021,Americas,Mexico,Hidalgo,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,25,Animal,3,0,22,3
+2021,Jan-Jun 2021,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,2,-,-,0,0,0,0
+2021,Jan-Jun 2021,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,102,Animal,82,0,20,82
+2021,Jan-Jun 2021,Americas,Mexico,Nuevo Le¨®n,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2021,Jan-Jun 2021,Americas,Mexico,Nuevo Le¨®n,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,500,Animal,160,0,340,160
+2021,Jan-Jun 2021,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,4,-,-,0,0,0,0
+2021,Jan-Jun 2021,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,616,Animal,483,0,133,483
+2021,Jan-Jun 2021,Americas,Mexico,San Luis Potos¨ª,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2021,Jan-Jun 2021,Americas,Mexico,San Luis Potos¨ª,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,26514,Animal,1361,0,25153,1361
+2021,Jan-Jun 2021,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,,-,-,1,-,-,0,0,0,0
+2021,Jan-Jun 2021,Europe,Italy,Emilia-Romagna,Low pathogenic avian influenza (poultry) (2006-2021),H7N7,Domestic,Birds,-,-,-,3018,Animal,34,3068,0,33
+2021,Jan-Jun 2021,Europe,Lithuania,Alytaus,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N7,Wild,,-,-,1,-,-,0,0,0,0
+2021,Jan-Jun 2021,Europe,Lithuania,Alytaus,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N7,Wild,Mute Swan,-,-,-,-,Animal,1,0,0,1
+2022,Jan-Jun 2022,Americas,Mexico,Aguascalientes,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,4,-,-,0,0,0,0
+2022,Jan-Jun 2022,Americas,Mexico,Aguascalientes,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,6471,Animal,2647,5756,0,715
+2022,Jan-Jun 2022,Americas,Mexico,Coahuila,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,12,-,-,0,0,0,0
+2022,Jan-Jun 2022,Americas,Mexico,Coahuila,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,1255348,Animal,402918,1202471,0,52877
+2022,Jan-Jun 2022,Americas,Mexico,Durango,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,18,-,-,0,0,0,0
+2022,Jan-Jun 2022,Americas,Mexico,Durango,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,954647,Animal,487530,919084,0,35563
+2022,Jan-Jun 2022,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,3,-,-,0,0,0,0
+2022,Jan-Jun 2022,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,8030,Animal,157,7885,0,145
+2022,Jan-Jun 2022,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,277,Animal,202,90,0,187
+2022,Jan-Jun 2022,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,6,-,-,0,0,0,0
+2022,Jan-Jun 2022,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,1313160,Animal,62,1313140,0,20
+2022,Jan-Jun 2022,Americas,Mexico,San Luis Potos¨ª,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2022,Jan-Jun 2022,Americas,Mexico,San Luis Potos¨ª,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,40,Animal,8,37,0,3
+2023,Jan-Jun 2023,Africa,South Africa,Gauteng,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,,-,-,1,-,-,0,0,0,0
+2023,Jan-Jun 2023,Africa,South Africa,Gauteng,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,-,-,-,215043,Animal,2139,212904,0,2139
+2023,Jan-Jun 2023,Africa,South Africa,Mpumalanga,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,,-,-,3,-,-,0,0,0,0
+2023,Jan-Jun 2023,Africa,South Africa,Mpumalanga,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,-,-,-,189500,Animal,4130,6040,0,4130
+2023,Jan-Jun 2023,Americas,Mexico,Aguascalientes,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,2,-,-,0,0,0,0
+2023,Jan-Jun 2023,Americas,Mexico,Aguascalientes,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,145,Animal,80,125,0,20
+2023,Jan-Jun 2023,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,6,-,-,0,0,0,0
+2023,Jan-Jun 2023,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,953,Animal,293,674,0,279
+2023,Jan-Jun 2023,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,3,-,-,0,0,0,0
+2023,Jan-Jun 2023,Americas,Mexico,Jalisco,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,160380,Animal,7525,152880,0,7500
+2023,Jan-Jun 2023,Americas,Mexico,Michoac¨¢n,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2023,Jan-Jun 2023,Americas,Mexico,Michoac¨¢n,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,500,Animal,220,410,0,90
+2023,Jul-Dec 2023,Africa,Mozambique,Inhambane,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7 (N untyped),Domestic,,-,-,1,-,-,0,0,0,0
+2023,Jul-Dec 2023,Africa,Mozambique,Inhambane,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7 (N untyped),Domestic,Birds,-,-,-,44340,Animal,15000,34591,0,9749
+2023,Jul-Dec 2023,Africa,South Africa,Eastern Cape,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,,-,-,1,-,-,0,0,0,0
+2023,Jul-Dec 2023,Africa,South Africa,Eastern Cape,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,-,-,-,996,Animal,300,0,0,278
+2023,Jul-Dec 2023,Africa,South Africa,Free State,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,,-,-,4,-,-,0,0,0,0
+2023,Jul-Dec 2023,Africa,South Africa,Free State,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,-,-,-,504800,Animal,455939,144221,0,455939
+2023,Jul-Dec 2023,Africa,South Africa,Gauteng,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,,-,-,73,-,-,0,0,0,0
+2023,Jul-Dec 2023,Africa,South Africa,Gauteng,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,-,-,-,6606156,Animal,874242,4483309,0,873198
+2023,Jul-Dec 2023,Africa,South Africa,Gauteng,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N6,Domestic,,-,-,2,-,-,0,0,0,0
+2023,Jul-Dec 2023,Africa,South Africa,Gauteng,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N6,Domestic,Birds,-,-,-,30,Animal,6,0,0,6
+2023,Jul-Dec 2023,Africa,South Africa,KwaZulu-Natal,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,,-,-,3,-,-,0,0,0,0
+2023,Jul-Dec 2023,Africa,South Africa,KwaZulu-Natal,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,-,-,-,87680,Animal,302,33078,0,302
+2023,Jul-Dec 2023,Africa,South Africa,Limpopo,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,,-,-,6,-,-,0,0,0,0
+2023,Jul-Dec 2023,Africa,South Africa,Limpopo,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,-,-,-,1169556,Animal,221090,543966,0,115090
+2023,Jul-Dec 2023,Africa,South Africa,Mpumalanga,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,,-,-,9,-,-,0,0,0,0
+2023,Jul-Dec 2023,Africa,South Africa,Mpumalanga,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,-,-,-,1289353,Animal,12843,673807,0,12843
+2023,Jul-Dec 2023,Africa,South Africa,North West,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,,-,-,16,-,-,0,0,0,0
+2023,Jul-Dec 2023,Africa,South Africa,North West,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,-,-,-,1766310,Animal,128240,862882,0,28924
+2023,Jul-Dec 2023,Africa,South Africa,Western Cape,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,,-,-,13,-,-,0,0,0,0
+2023,Jul-Dec 2023,Africa,South Africa,Western Cape,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,-,-,-,80101,Animal,204,64603,0,77
+2023,Jul-Dec 2023,Americas,Mexico,Zacatecas,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2023,Jul-Dec 2023,Americas,Mexico,Zacatecas,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,94,Animal,50,44,0,50
+2024,Jan-Jun 2024,Africa,Mozambique,Inhambane,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7 (N untyped),Domestic,Birds,-,-,-,33,Animal,0,34591,0,912
+2024,Jan-Jun 2024,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,2,-,-,0,0,0,0
+2024,Jan-Jun 2024,Americas,Mexico,Guanajuato,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,861,Animal,861,184,0,677
+2024,Jan-Jun 2024,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,5,-,-,0,0,0,0
+2024,Jan-Jun 2024,Americas,Mexico,Puebla,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,193,Animal,61,135,0,58
+2024,Jan-Jun 2024,Americas,Mexico,San Luis Potos¨ª,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,,-,-,1,-,-,0,0,0,0
+2024,Jan-Jun 2024,Americas,Mexico,San Luis Potos¨ª,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,-,-,-,71,Animal,56,16,0,55
+2024,Jan-Jun 2024,Europe,Germany,Niedersachsen,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N5,Domestic,,-,-,1,-,-,0,0,0,0
+2024,Jan-Jun 2024,Europe,Germany,Niedersachsen,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N5,Domestic,Birds,-,-,-,90879,Animal,6047,84879,0,6000
+2024,Jan-Jun 2024,Oceania,Australia,Corangamite,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N9,Domestic,Birds,5687,134830,1,152194,Animal,14000,151894,0,300
+2024,Jan-Jun 2024,Oceania,Australia,Golden Plains,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N3,Domestic,Birds,5683,-,7,1161628,Animal,10211,1158086,0,3542
+2024,Jan-Jun 2024,Oceania,Australia,Hawkesbury,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N8,Domestic,Birds,5720,-,2,322000,Animal,24000,202000,0,120000
+2024,Jan-Jun 2024,Oceania,Australia,Hawkesbury,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N8,Domestic,Birds,5755,-,3,10,Animal,7,3,0,7
+2024,Jan-Jun 2024,Oceania,Australia,Unincorporated Australian Capital Territory,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N8,Domestic,Birds,5720,135843,1,170000,Animal,14200,162325,0,7675
+2024,Jan-Jun 2024,Oceania,Australia,Unincorporated Australian Capital Territory,Influenza A viruses of high pathogenicity (Inf. with) (non-poultry including wild birds) (2017-),H7N8,Domestic,Birds,5755,136514,1,3,Animal,1,2,0,1
+2024,Jul-Dec 2024,Africa,South Africa,Dr Beyers Naude,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,5095,139509,1,320,Animal,7,0,0,0
+2024,Jul-Dec 2024,Oceania,Australia,Hawkesbury,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N8,Domestic,Birds,5720,136973,1,11,Animal,0,11,0,0
+2024,Jul-Dec 2024,Oceania,New Zealand,Waitaki,High pathogenicity avian influenza viruses (poultry) (Inf. with),H7N6,Domestic,Birds,6077,144265,1,220000,Animal,13500,126000,0,3500

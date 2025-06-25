@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.7
+seaborn>=0.12
+geopandas>=0.13
+cartopy>=0.22
+shapely>=2.0
+openpyxl>=3.1
+scikit-learn>=1.3 

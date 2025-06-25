@@ -1,0 +1,32 @@
+Graph1
+G-A 21
+A-G 39
+G-H 5
+H-G 7
+A-E 23
+A-O 32
+O-A 9
+
+nodes = ["Anseriformes", "Other", "Environment","Human",  "Galliformes"]
+sizes = [52.01,9.47,  3.58, 5.47, 29.47]
+
+Graph2
+G-A 17
+A-G 8
+A-O 18
+O-A 3
+
+nodes = ["Anseriformes", "Other", "Environment","Human",  "Galliformes"]
+sizes = [57.61,5.79,0.27,0,36.33]
+
+Graph3
+A-G 21
+G-A 7
+A-E 18
+E-A 5
+A-O 26
+O-A 8
+nodes = ["Anseriformes", "Other", "Environment","Human",  "Galliformes"]
+sizes = [62.49,14.38,8.22,0.6,14.32]
+
+Graph4
