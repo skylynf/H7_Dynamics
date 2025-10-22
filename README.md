@@ -1,5 +1,5 @@
 ## Project Overview
-This repository contains the full analysis pipeline and figure-generating scripts for the manuscript *Global transmission dynamics of avian influenza H7 subtypes* (submitted to *Nature Communications*).
+This repository contains the full analysis pipeline and figure-generating scripts for the manuscript *Global transmission dynamics of avian influenza H7 subtypes* (in review in *Nature Communications*).
 
 The code base includes:
 - Bayesian phylogeographic analyses (continuous, discrete, GLM)
@@ -7,7 +7,7 @@ The code base includes:
 - Wavefront diffusion calculations
 - End-to-end Python / R scripts to reproduce all main-text and supplementary figures
 
-All analyses were developed and tested with **Python ≥ 3.9** and **R ≥ 4.2** on Windows 10, macOS 12, and Ubuntu 20.04.
+All analyses were developed and tested with **Python ≥ 3.9** and **R ≥ 4.2** on Windows 11, macOS 12, and Ubuntu 20.04.
 
 ---
 
