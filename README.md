@@ -44,7 +44,8 @@ See `requirements.txt` for a full list. Key dependencies include:
 ## Repository Layout
 ```
 data/                  # Raw input data (FAO, OIE, human cases, etc.)
-output/                # Example result files (XML, MCC trees, coefficient tables)
+host/                  # host files (XML)
+MCCtree/               # MCC tree files (input XML and output MCC trees)
 src/
   continuous/          # Continuous diffusion BEAST XML + R visualisation scripts
   discrete/            # Discrete diffusion BEAST XML files
