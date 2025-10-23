@@ -103,7 +103,6 @@ Please download and install the following software (links provided):
 
 ## Example Data and Expected Output
 - Example input data are provided in the `data/` directory (e.g., FAO, OIE, human case files).
-- Example output files (XML, MCC trees, coefficient tables) are provided in the `output/` directory.
 - Each analysis script in `src/` is annotated with required input files and expected output files in the header comments or a local README.
 - To reproduce a figure (e.g., Figure 3):
   ```bash
