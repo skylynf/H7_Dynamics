@@ -117,7 +117,7 @@ Please download and install the following software (links provided):
 ## Running the Full Pipeline
 1. Prepare all required input data in the `data/` directory.
 2. Follow the instructions in each `src/` subdirectory README or script header to run the relevant analysis (Python or R).
-3. Use the provided example data and scripts to verify that your environment is set up correctly. Expected output files are provided in `output/` for comparison.
+3. Use the provided example data and scripts to verify that your environment is set up correctly. 
 
 ---
 
